@@ -47,15 +47,20 @@
             margin: 0px 4px;
         }
     }
+}
 
-    frame {
+popover.autocomplete {
+    /* HACK: it's not possible to separately style the arrow, and we don't want
+     * the arrow. So make the popover itself transparent, and treat the list
+     * box inside of it as the actual window. */
+    background-color: transparent;
+
+    list {
+        border-radius: 5px;
         background-color: transparentize(white, 1 - 0.96);
         box-shadow: 0 3px 8px transparentize(black, 1 - 0.35);
-    }
-
-    .view {
         padding: 10px;
-        .cell {
+        row {
             color: transparentize(black, 1 - 0.80);
             border-bottom: 1px solid transparentize(black, 1 - 0.10);
 
@@ -68,7 +73,7 @@
 
         &:nth-child(2) {
             font-weight: bold;
-            .cell {
+            row {
                 color: $accent-dark-color;
             }
         }
