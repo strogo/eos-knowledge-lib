@@ -8,5 +8,8 @@ short-description: The full refined ingester code
 ## package.json ##
 {{ tutorial/code/cc-ingester2/package.json }}
 
+## sets.json ##
+{{ tutorial/code/app/sets.json }}
+
 ## .eslintrc.json ##
 {{ tutorial/code/cc-ingester2/.eslintrc.json }}
