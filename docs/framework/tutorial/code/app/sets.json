@@ -1,0 +1,190 @@
+{
+    "sets": [
+        {
+            "title": "About Creative Commons",
+            "featured": true,
+            "childTags": [
+                "About CC"
+            ]
+        },
+        {
+            "title": "Around the World",
+            "featured": true,
+            "childTags": [
+                "Global affiliates",
+                "tag:Canada",
+                "tag:Creative Commons Global Network",
+                "tag:EU",
+                "tag:EU-Mercosur",
+                "tag:European Union",
+                "tag:Ghana",
+                "tag:Mercosur",
+                "tag:Mexico",
+                "tag:Portuguese",
+                "tag:Spanish",
+                "tag:Toronto",
+                "tag:africa",
+                "tag:chinese"
+            ]
+        },
+        {
+            "title": "Events",
+            "featured": true,
+            "childTags": [
+                "Events"
+            ]
+        },
+        {
+            "title": "Interviews",
+            "featured": true,
+            "childTags": [
+                "tag:cctalkswith"
+            ]
+        },
+        {
+            "title": "Policy, Advocacy, & Copyright Reform",
+            "featured": true,
+            "childTags": [
+                "Policy / advocacy / copyright reform"
+            ]
+        },
+        {
+            "title": "Blog Posts",
+            "featured": true,
+            "childTags": [
+                "Arts / culture",
+                "Education / OER",
+                "Global affiliates",
+                "Legal tools / licenses",
+                "Open access",
+                "Weblog"
+            ]
+        },
+        {
+            "title": "Advocacy",
+            "featured": false,
+            "childTags": [
+                "tag:advocacy"
+            ]
+        },
+        {
+            "title": "Art",
+            "featured": false,
+            "childTags": [
+                "tag:art"
+            ]
+        },
+        {
+            "title": "Arts & Culture",
+            "featured": false,
+            "childTags": [
+                "Arts / culture"
+            ]
+        },
+        {
+            "title": "CC Licenses",
+            "featured": false,
+            "childTags": [
+                "Legal tools / licenses"
+            ]
+        },
+        {
+            "title": "Copyright Reform",
+            "featured": false,
+            "childTags": [
+                "tag:#fixcopyright",
+                "tag:copyright reform",
+                "tag:eu copyright reform"
+            ]
+        },
+        {
+            "title": "Copyright Week",
+            "featured": false,
+            "childTags": [
+                "tag:#copyrightweek",
+                "tag:#coyrightweek",
+                "tag:Copyright Week 2018"
+            ]
+        },
+        {
+            "title": "Education & OER",
+            "featured": false,
+            "childTags": [
+                "Education / OER"
+            ]
+        },
+        {
+            "title": "Emerging Media",
+            "featured": false,
+            "childTags": [
+                "tag:AR",
+                "tag:VR",
+                "tag:augmented reality",
+                "tag:emerging media",
+                "tag:immersive media",
+                "tag:virtual reality"
+            ]
+        },
+        {
+            "title": "Global Summit",
+            "featured": false,
+            "childTags": [
+                "tag:CC Global Summit",
+                "tag:CC summit",
+                "tag:Global Summit",
+                "tag:ccglobalsummit",
+                "tag:ccsummit",
+                "tag:ccsummit18",
+                "tag:global summit 2018"
+            ]
+        },
+        {
+            "title": "Humans of the Commons",
+            "featured": false,
+            "childTags": [
+                "tag:humans of the commons",
+                "tag:humansofthecommons"
+            ]
+        },
+        {
+            "title": "Net Neutrality",
+            "featured": false,
+            "childTags": [
+                "tag:#netneutrality",
+                "tag:net neutrality",
+                "tag:FCC"
+            ]
+        },
+        {
+            "title": "Open access",
+            "featured": false,
+            "childTags": [
+                "Open access"
+            ]
+        },
+        {
+            "title": "Policy",
+            "featured": false,
+            "childTags": [
+                "tag:policy",
+                "tag:public policy"
+            ]
+        },
+        {
+            "title": "Public Domain",
+            "featured": false,
+            "childTags": [
+                "tag:public domain",
+                "tag:CC0"
+            ]
+        },
+        {
+            "title": "Trade Agreements",
+            "featured": false,
+            "childTags": [
+                "tag:free trade agreement",
+                "tag:trade agreements"
+            ]
+        }
+    ]
+}
